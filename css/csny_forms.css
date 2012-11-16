@@ -1,0 +1,47 @@
+/* GENERIC - GENERIC - GENERIC - GENERIC - GENERIC - GENERIC - GENERIC - GENERIC - GENERIC - GENERIC - GENERIC - GENERIC - GENERIC */
+
+.required {color: #9D063B;} /*undefined in guideleined - suggested*/
+.msg_div{
+	 font-size: 11px;
+	 height:14px;
+	 line-height:14px;
+	 color: #9D063B;
+	 padding: 0 0 0 20px;
+}
+
+form.barcapform{font-size: 12px;	margin: 0px;	padding: 0px;}
+
+/* LABEL - LABEL - LABEL - LABEL - LABEL - LABEL - LABEL - LABEL - LABEL - LABEL - LABEL - LABEL - LABEL - LABEL - LABEL - LABEL */
+form.barcapform label {cursor:hand; cursor:pointer}
+
+
+/* INPUT TEXT - INPUT TEXT - INPUT TEXT - INPUT TEXT - INPUT TEXT - INPUT TEXT - INPUT TEXT - INPUT TEXT - INPUT TEXT - INPUT TEXT */
+.txt_xlong {width: 100%;}
+.txt_long {width: 300px;}
+.txt_medium{width: 225px;}
+.txt_short {width: 150px;}
+.txt_xshort {width: 75px;}
+
+/* TABLE FIELD STRUCTURE - TABLE FIELD STRUCTURE - TABLE FIELD STRUCTURE - TABLE FIELD STRUCTURE - TABLE FIELD STRUCTURE - TABLE FIELD STRUCTURE */
+table.field_table tr td input[type=checkbox] , 
+table.field_table tr td input[type=radio] {margin:0; vertical-align:sub;} 
+
+table.field_table tr td.label{width: 240px; vertical-align:top;} 
+table.field_table tr td.input{width: 452px; vertical-align:top;} 
+
+table.field_table tr td.title,			
+table.field_table tr td p.title{font-weight:bold;}			
+
+/* SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT - SUBMIT */
+#submit_button, #reset_button {background-color:#00AEEF; color:#FFFFFF; cursor:hand; cursor:pointer;	}
+
+
+
+.msgbox_blue {border: 1px solid #00AEEF;padding:5px;margin-bottom:10px;}
+.msgbox_red {border: 1px solid #cc0000;padding:5px;margin-bottom:10px;}
+.msgbox_orange {border: 1px solid #F8D905;padding:5px;margin-bottom:10px;}
+
+
+	.button_generic_blue{background-color:#00AEEF; color:#FFFFFF; border:1px solid #455560; cursor:pointer; font-weight:bold;}
+	.button_generic_red{background-color:#cc0000; color:#FFFFFF; border:1px solid #455560; cursor:pointer; font-weight:bold;}
+	.button_generic_orange{background-color:#F8D905; color:#FFFFFF; border:1px solid #455560; cursor:pointer; font-weight:bold;}
